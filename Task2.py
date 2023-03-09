@@ -1,3 +1,5 @@
+# Task 2: Change the status of the ticket from 'Open' to 'Close' with a comment in Jira using API.
+
 import requests
 import base64
 

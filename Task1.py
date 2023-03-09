@@ -1,3 +1,11 @@
+# Fetch all tickets from Jira API with pagination and save that in the database table. You should save as many fields as you can in database but these are the minimum required.
+# Number
+# Name
+# Description
+# Reporter
+# Status
+# Due Date if any
+
 import requests
 import sqlite3
 

@@ -1,3 +1,5 @@
+# Task 3: Create a UI to show the tickets from the database
+
 import tkinter as tk
 import sqlite3
 

@@ -1,3 +1,5 @@
+# Task 4: Add a button to re-fetch or re-load new tickets if any from Jira and put them into the database
+
 import tkinter as tk
 import sqlite3
 import requests
